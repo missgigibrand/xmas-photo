@@ -1,0 +1,7 @@
+{
+  "name": "Holiday Magic 3D",
+  "description": "An interactive 3D Christmas experience with hand tracking and photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
